@@ -6,7 +6,7 @@ title: "Christophe Hamerling"
 <div class="hero-unit">
 	<h1>Christophe Hamerling</h1>
 	<h2>Ingénieur Logiciel</h2>
-	<p>#java #soa #opensource <a href="http://ow2.org" target="_blank">#ow2</a> <a href="http://petals.ow2.org" target="_blank">#petals</a> <a href="http://quickhubapp.com" target="_blank">#quickhubapp</a></p>
+	<p><a href="http://petalslink.com" target="_blank">#soa</a> <a href="http://ow2.org" target="_blank">#opensource</a> <a href="http://ow2.org" target="_blank">#ow2</a> <a href="http://petals.ow2.org" target="_blank">#petals</a> <a href="http://quickhubapp.com" target="_blank">#quickhubapp</a></p>
 </div>
 
 <p align="center">
