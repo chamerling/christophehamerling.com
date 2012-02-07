@@ -34,5 +34,10 @@ $("a.menu").click(function (e) {
   return false;
 });
 
+$(window).load(function() {
+  $('#featured').orbit({
+	bullets: true
+  });
+});
 
 });
