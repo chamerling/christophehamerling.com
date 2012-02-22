@@ -3,7 +3,9 @@ layout: layout
 title: "Christophe Hamerling"
 ---
 
+<p align="center">
 <img src="http://dl.dropbox.com/u/73785/chdotcom/ow2.jpg"/>
+</p>
 
 <!--
 <div id="featured"> 
