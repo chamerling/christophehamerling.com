@@ -3,7 +3,7 @@ layout: page
 title: "RatatamApp"
 ---
 				
-<div class="well">
+<div class="well" width="800">
 	<p>RatatamApp is a <a href="http://instagr.am">Instagram</a> client for Mac OS X. Just forget your iPhone when you are in front of your Mac. RatatamApp notifies you when new photos are posted (<a href="http://growl.info">Growl</a> enabled). Just like and comment them from RatatamApp!</p>
 	
 	<p>RatatamApp is available on the <b><a target="_blank" href="http://itunes.apple.com/us/app/ratatam/id506361962">Mac App store</a></b> for $0.99 / 0.79 euros.</p>
