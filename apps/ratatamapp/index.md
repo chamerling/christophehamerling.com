@@ -14,4 +14,9 @@ title: "RatatamApp"
 	</p>
 </div>
 
-<img src="http://f.cl.ly/items/0Z2l1V1F261B0U363e2u/ratatam10-main.jpg" width="800"/>
+<div align="center">
+	<img src="http://f.cl.ly/items/0Z2l1V1F261B0U363e2u/ratatam10-main.jpg" width="800"/>
+</div>
+<div align="center">
+	<img src="http://f.cl.ly/items/0i1x1i293B2y230P3o1M/ratatam10-comment.jpg" width="800"/>
+</div>
