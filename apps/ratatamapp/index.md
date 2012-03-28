@@ -3,7 +3,7 @@ layout: page
 title: "RatatamApp"
 ---
 				
-<div class="well" width="800">
+<div class="well">
 	<p>RatatamApp is a <a href="http://instagr.am">Instagram</a> client for Mac OS X. Just forget your iPhone when you are in front of your Mac. RatatamApp notifies you when new photos are posted (<a href="http://growl.info">Growl</a> enabled). Just like and comment them from RatatamApp!</p>
 	
 	<p>RatatamApp is available on the <b><a target="_blank" href="http://itunes.apple.com/us/app/ratatam/id506361962">Mac App store</a></b> for $0.99 / 0.79 euros.</p>
@@ -15,8 +15,5 @@ title: "RatatamApp"
 </div>
 
 <div align="center">
-	<img src="http://f.cl.ly/items/0Z2l1V1F261B0U363e2u/ratatam10-main.jpg" width="800"/>
-</div>
-<div align="center">
-	<img src="http://f.cl.ly/items/0i1x1i293B2y230P3o1M/ratatam10-comment.jpg" width="800"/>
+	<img src="http://f.cl.ly/items/0T2X3B1z3D2x0f1Y0a04/ratatam10.png" width="940"/>
 </div>
