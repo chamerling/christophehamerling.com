@@ -20,11 +20,9 @@ title: "RatatamApp"
 	<img src="http://f.cl.ly/items/0T2X3B1z3D2x0f1Y0a04/ratatam10.png" width="940"/>
 </div>
 
-<div align="left">
 ## Features
 - Follow your contacts photos. The feed is automatically updated when new photos are available.
 - Comment and like photos.
 - Growl notifications. When new photos are available, a Growl notification will be show with the new photo as icon.
 - OAuth support. RatatamApp will never ask your password. It uses OAuth protocol to authentify you on the Instagram system.
-- There are many other features to come. Most of them are not provided by the official Instagram clients.
-</div>
+- This is only a first version, there are many other features to come...
