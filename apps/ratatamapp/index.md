@@ -26,3 +26,19 @@ title: "RatatamApp"
 - Growl notifications. When new photos are available, a Growl notification will be show with the new photo as icon.
 - OAuth support. RatatamApp will never ask your password. It uses OAuth protocol to authentify you on the Instagram system.
 - This is only a first version, there are many other features to come...
+
+## Changelog
+### v1.1
+- [NEW] Backup all your Instagram photos 
+- [NEW] Add some keyboard navigation 
+- [FIX] Open window on icon click
+
+### v1.0.1
+- [FIX] Memory leak on photo loading
+
+### v1.0
+- [NEW] Photos are loaded in the background and window is updated automatically when new photos are available 
+- [NEW] Be notified when new photos are posted by your contacts (based on Growl) 
+- [NEW] Comment photos 
+- [NEW] Like photos 
+- [NEW] OAuth support: Your password is not stored anywhere 
